@@ -7,4 +7,5 @@
 
 ## Array
 - [Inicializando uma array](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/01_new_array.js)
-- [Acessndo elementos de uma array](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/02_access_elements.js)
+- [Acessando elementos de uma array](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/02_access_elements.js)
+- [Inserindo elementos em uma array](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/03_insert_elements.js)
