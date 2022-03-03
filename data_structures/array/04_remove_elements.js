@@ -8,7 +8,7 @@ for (let i = 0; i < numbers.length; i++) {
   numbers[i] = numbers[i+1] // shift elements to the left
   console.log(numbers[i])
 }
-
+//
 console.log(numbers)
 
 // create a method to re index
