@@ -31,3 +31,29 @@ function printMatrix(matrix) {
 }
 
 printMatrix(averageTemp) // 75, 82, 90, 84
+
+// in matriz multidimensional we case 
+// i = line
+// j = column
+// z = depth
+const x3 = []
+for (let i = 0; i<3; i++) {
+  x3[i] = [] // initialize each array
+  for (let j = 0; j < 3; j++) {
+    x3[i][j] = []
+    for (let z = 0; z < 3; z++) {
+      x3[i][j][z] = i + j + z
+    }
+  }
+}
+
+// not import the quantity of matrix, always to need use link for each dimension
+
+// console log matrix
+for (let i = 0; i < x3.length; i++) {
+  for (let j = 0; j < x3[i].length; j++) {
+    for (let z = 0; z < x3[i][j].length; z++) {
+      console.log(x3[i][j][z], '3x3x3')
+    }
+  }
+}
