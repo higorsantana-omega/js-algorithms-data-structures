@@ -12,3 +12,4 @@
 - [Removendo elementos em uma array](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/04_remove_elements.js)
 - [Array bidimensional e multidimensionais](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/05_two-dimensional_multidimensional.js)
 - [Concatenar arrays](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/06_concat_arrays.js)
+- [Iterar arrays](https://github.com/higorsantana-omega/js-algorithms-data-structures/tree/main/data_structures/array/07_interaction_functions.js)
